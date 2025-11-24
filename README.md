@@ -5,9 +5,9 @@ Welcome to my GitHub profile! I'm an aspiring developer passionate about explori
 ---
 
 ### 🌟 **About Me**  
-- 🎯 **Interests:** Web Development, App Development, Cybersecurity, Data Science.  
-- 💻 **Skills:** Python, Kotlin, C.  
-- 🌱 **Currently Learning:** JavaScript and Jetpack Compose.  
+- 🎯 **Interests:** Web Development, App Development, Cybersecurity.  
+- 💻 **Skills:** Python, Kotlin, C, Java.  
+- 🌱 **Currently Learning:** Devops Tools.  
 - 🚀 **Future Goals:** Start meaningful projects and collaborate with fellow developers to make an impact!   
 
 ---

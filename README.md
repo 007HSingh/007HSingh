@@ -68,11 +68,6 @@ Outside of that: chess on Chess.com, and whatever book caught my eye, either som
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/6uKK7zcSz6?theme=dark&font=baloo_2)](https://leetcode.com/u/6uKK7zcSz6/)
 
-## ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 ## 🔭 Projects
 
 ### My work:

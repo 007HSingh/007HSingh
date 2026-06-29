@@ -70,11 +70,6 @@ Outside of that: chess on Chess.com, and whatever book caught my eye, either som
 
 ![Contribution Snake](https://raw.githubusercontent.com/007HSingh/007HSingh/output/github-contribution-grid-snake-dark.svg)
 
-## ♟️ Chess
-
-<!--START_SECTION:chessStats-->
-<!--END_SECTION:chessStats-->
-
 ## 🔭 Projects
 
 ### My work:
@@ -91,4 +86,5 @@ Outside of that: chess on Chess.com, and whatever book caught my eye, either som
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-singh-iiitkalyani)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/6uKK7zcSz6/)
+[![Chess.com](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2Flastwarch%2Fstats&query=%24.chess_rapid.last.rating&label=Chess.com%20Rapid&style=for-the-badge&color=81b64c&logoColor=white)](https://www.chess.com/member/LastWarch)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhharsh25032008@gmail.com)

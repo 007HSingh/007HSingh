@@ -68,6 +68,13 @@ Outside of that: chess on Chess.com, and whatever book caught my eye, either som
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/6uKK7zcSz6?theme=dark&font=baloo_2)](https://leetcode.com/u/6uKK7zcSz6/)
 
+![Contribution Snake](https://raw.githubusercontent.com/007HSingh/007HSingh/output/github-contribution-grid-snake-dark.svg)
+
+## ♟️ Chess
+
+<!--START_SECTION:chessStats-->
+<!--END_SECTION:chessStats-->
+
 ## 🔭 Projects
 
 ### My work:

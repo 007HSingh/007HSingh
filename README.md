@@ -58,13 +58,7 @@ Outside of that: chess on Chess.com, and whatever book caught my eye, either som
 
 </details>
 
-## 📊 GitHub Stats
-
-[![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=007HSingh&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide=c%2B%2B)](https://github.com/007HSingh)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=007HSingh&theme=catppuccin-mocha&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=007HSingh&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&layout=compact&hide=javascript,typescript,html)](https://github.com/007HSingh)
+## 📊 Stats
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/6uKK7zcSz6?theme=dark&font=baloo_2)](https://leetcode.com/u/6uKK7zcSz6/)
 
